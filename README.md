@@ -12,8 +12,8 @@ Where file is the picture file, and desired height is the number of pixels you'd
 
 Eg.
 
-''' python
+``` python
 python pic2ascii.py gasp.png 100
-'''
+```
 
 Produces "ascimg.txt"
